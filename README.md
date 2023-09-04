@@ -17,6 +17,9 @@ Output: The program will calculate your BMI and provide a classification based o
 Quit: To quit the program, press 'q' when prompted to continue or quit.
 
 AUTHOR
+
 Trust Ihemebiri
+
 Contact: isaactrust447@gmail.com
+
 Feel free to modify and improve this BMI calculator or use it as a starting point for your own projects!
